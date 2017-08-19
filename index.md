@@ -1,4 +1,4 @@
-## ABOUT ME
+# ABOUT ME
 A young man from Thrissur, Kerala, pursuing the 4th year of B.Tech in the stream of Electrical and Electronics Engineering from MES College of Engineering, Kuttippuram. Always curious to learn about the modern world and technology.
 
 As the reknown engineer [Dean Kamen](https://en.wikipedia.org/wiki/Dean_Kamen) said, 
@@ -11,9 +11,7 @@ So it's always our upon us to make changes in this world. Be that change.
 
 ![Break](https://raw.githubusercontent.com/ameenkb/ameenkb.github.io/master/Images/Blank.png)
 
-### ACADEMICAL ABSTRACT
-
-![Break](https://raw.githubusercontent.com/ameenkb/ameenkb.github.io/master/Images/Blank.png)
+## ACADEMICAL ABSTRACT
 
 - **EDUCATIONAL QUALIFICATION**
   - B. Tech in EEE from MESCE, Kuttipuram
