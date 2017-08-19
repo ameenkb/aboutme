@@ -12,6 +12,9 @@ So it's always our upon us to make changes in this world. Be that change.
 ![Break](https://raw.githubusercontent.com/ameenkb/ameenkb.github.io/master/Images/Blank.png)
 
 ### ACADEMICAL ABSTRACT
+
+![Break](https://raw.githubusercontent.com/ameenkb/ameenkb.github.io/master/Images/Blank.png)
+
 - **EDUCATIONAL QUALIFICATION**
   - B. Tech in EEE from MESCE, Kuttipuram
   
@@ -25,6 +28,8 @@ So it's always our upon us to make changes in this world. Be that change.
   
   CBSE Syllabus
   (CGPA: 9.6)
+  
+  ![Break](https://raw.githubusercontent.com/ameenkb/ameenkb.github.io/master/Images/Blank.png)
   
 - **SKILLS**
   - Arduino Programming (1 year)
@@ -40,6 +45,8 @@ So it's always our upon us to make changes in this world. Be that change.
   
   Basics and design of IoT
   
+  ![Break](https://raw.githubusercontent.com/ameenkb/ameenkb.github.io/master/Images/Blank.png)
+  
 - **AWARDS**
   - Best Performer Award (April 2017)
   
@@ -50,6 +57,8 @@ So it's always our upon us to make changes in this world. Be that change.
   - National Robotic Championship (April 2016)
   
   Finalist in NRC at IIT, Mumbai conducted by ARK Technosolutions Pvt Ltd, Mumbai and Robokart.com
+  
+  ![Break](https://raw.githubusercontent.com/ameenkb/ameenkb.github.io/master/Images/Blank.png)
   
 - **CERTIFICATIONS/LICENSES**
   - Industrial Training
