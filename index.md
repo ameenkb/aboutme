@@ -8,7 +8,6 @@ So it's always our upon us to make changes in this world. Be that change.
 
 ![Picture 2](http://northamerica.mslgroup.com/network/wp-content/uploads/2013/10/Executive-Decisions2.png)
 
-[![Back](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png) BACK TO TOP ![Arrow](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png)](https://ameenkb.github.io/#contents)
 
 ![Break](https://raw.githubusercontent.com/ameenkb/ameenkb.github.io/master/Images/Blank.png)
 
